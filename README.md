@@ -4,7 +4,10 @@
 
 | syscall_id | syscall_name |
 | ---------- | ------------ |
+| 35         | unlinkat     |
 | 40         | mount        |
+| 61         | getdents64   |
+| 80         | fstat        |
 | 153        | times        |
 | 160        | uname        |
 | 214        | brk          |
