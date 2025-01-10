@@ -4,7 +4,6 @@
 
 | syscall_id | syscall_name |
 | ---------- | ------------ |
-| 35         | unlinkat     |
 | 40         | mount        |
 | 80         | fstat        |
 | 153        | times        |
