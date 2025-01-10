@@ -7,8 +7,9 @@
 | 40         | mount        |
 | 80         | fstat        |
 | 153        | times        |
-| 160        | uname        |
 | 214        | brk          |
+
+2025/1/10: 同步进度：getdents64，unlinkat，linkat，uname实现。
 
 2025/1/9: 同步进度：openat实现。
 
