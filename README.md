@@ -5,9 +5,10 @@
 | syscall_id | syscall_name |
 | ---------- | ------------ |
 | 40         | mount        |
-| 80         | fstat        |
 | 153        | times        |
 | 214        | brk          |
+
+2025/1/16: 同步进度：fstat, munmap实现, mmap修改。
 
 2025/1/10: 同步进度：getdents64，unlinkat，linkat，uname实现。
 
