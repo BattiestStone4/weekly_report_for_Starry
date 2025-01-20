@@ -5,7 +5,8 @@
 | syscall_id | syscall_name |
 | ---------- | ------------ |
 | 40         | mount        |
-| 214        | brk          |
+
+2025/1/20: 同步进度：实现brk。
 
 2025/1/16: 同步进度：fstat, munmap实现, mmap修改, 实现times。
 
