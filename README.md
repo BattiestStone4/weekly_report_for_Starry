@@ -1,10 +1,7 @@
 # Starry-on-ArceOS完善
 
-基础测例未实现syscall列表：
 
-| syscall_id | syscall_name |
-| ---------- | ------------ |
-| 40         | mount        |
+2025/1/22: 初赛测例：All Done.
 
 2025/1/20: 同步进度：实现brk。
 
